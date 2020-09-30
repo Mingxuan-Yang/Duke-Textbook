@@ -16,7 +16,7 @@ Since our population can be naturally divided into 9 departments, we decided to 
 
 All of the data was collected at the [Duke textbook store](https://eposweb-320.sequoiars.com/ePOS?form=shared3/gm/main.html&this_category=17&store=320&design=duke_textbooks). We decided to sample 60 courses from the frame and used a stratified sampling with proportional allocation, which led to the following result:
 
--                            |$N_h$ |$n_h$
+Department                   |$N_h$ |$n_h$
 -----------------------------|------|---------
 *Biology*                    |47    |10
 *Chemistry*                  |20    |4
