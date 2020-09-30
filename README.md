@@ -16,7 +16,7 @@ Since our population can be naturally divided into 9 departments, we decided to 
 
 All of the data was collected at the [Duke textbook store](https://eposweb-320.sequoiars.com/ePOS?form=shared3/gm/main.html&this_category=17&store=320&design=duke_textbooks). We decided to sample 60 courses from the frame and used a stratified sampling with proportional allocation, which led to the following result:
 
-|                             |Population Size |Sample Size    |
+|                             |Population Size |Sample Size|
 |-----------------------------|----------------|---------|
 |*Biology*                    |47              |10|
 |*Chemistry*                  |20              |4|
@@ -37,21 +37,21 @@ The results were obtained based on the stratified sampling design in R package `
 
 - the total cost of required books in the natural sciences at Duke (in dollars)
 
-                 |total cost  |standard error 
------------------|------------|---------------
-cost of textbook |13145.93    |2623.78        
+|                 |total cost  |standard error |
+|-----------------|------------|---------------|
+|cost of textbook |13145.93    |2623.78        |
 
 - the average number of required books per course in the natural sciences at Duke
 
-                   |average no. of books  |standard error 
--------------------|----------------------|---------------
-number of textbook |0.34                  |0.06
+|                   |average no. of books  |standard error |
+|-------------------|----------------------|---------------|
+|number of textbook |0.34                  |0.06||
 
 -  the average of the (total) cost of required books per course in the natural sciences at Duke (in dollars)
 
-                 |average cost of books |standard error 
------------------|----------------------|---------------
-cost of textbook |44.56                 |8.89        
+|                 |average cost of books |standard error| 
+|-----------------|----------------------|---------------|
+|cost of textbook |44.56                 |8.89           |
 
 ## Authors
 
