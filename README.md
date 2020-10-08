@@ -1,5 +1,7 @@
 # Duke Textbook Estimation
 
+*Project Date: 2020-03-03*
+
 ## Introduction
 
 In this project, we designed and implemented a survey to explore the expected expenditures on required textbooks for natural science students at Duke, if they buy them new at the [Duke textbook store](https://eposweb-320.sequoiars.com/ePOS?form=shared3/gm/main.html&this_category=17&store=320&design=duke_textbooks). The main goal of this survey is to estimate the following variables:
