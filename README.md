@@ -18,6 +18,7 @@ Since our population can be naturally divided into 9 departments, we decided to 
 
 All of the data was collected at the [Duke textbook store](https://eposweb-320.sequoiars.com/ePOS?form=shared3/gm/main.html&this_category=17&store=320&design=duke_textbooks). We decided to sample 60 courses from the frame and used a stratified sampling with proportional allocation, which led to the following result:
 
+<center>
 |                             |Population Size |Sample Size|
 |:-----------------------------:|:----------------:|:---------:|
 |*Biology*                    |47              |10|
@@ -30,6 +31,7 @@ All of the data was collected at the [Duke textbook store](https://eposweb-320.s
 |*Neuroscience*               |26              |5|
 |*Statistical Science*        |24              |5|
 |Total                        |295             |60|
+</center>
 
 Having settled the course indices we decided to sample, we stored them, together with weights and Finite Population Correction Factor, in [`textbook.csv`](Data/textbook.csv) file and went to the bookstore website to obtain relevant information (number of books and costs). With the collected information about book quantities and prices, we updated the dataset into [`textbook_new.csv`](Data/textbook_new.csv).
 
